@@ -11,3 +11,11 @@ In this project I am hoping to demonstrate my understanding of:
 ## Author
 
 Amber Flett
+
+
+## Purpose of the following Commands:
+
+- `mkdir`: Creates a directory.
+- `cd`: Change directories.
+- `code`: Opens Visual Studio Code.
+- `ls`: Lets us view files in a directory.
