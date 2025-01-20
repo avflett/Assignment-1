@@ -40,3 +40,12 @@ With version control, it is possible to:
 - `git branch`: Duplicates the code of the main branch which allows multiple users to work simultaneously on that same code.
 - `git merge`: Merges the changes made from all the branches to the main branch, or to another branch. 
 - `git checkout`: Allows users to switch between the different branches.
+
+## My Unique Touch
+
+There are things that set me apart from others:
+
+- I enjoy honey in my coffee.
+- I'm very kind, patient, and understanding.
+- I have a Dundie Award.
+- I collect Star Wars memorabillia.
